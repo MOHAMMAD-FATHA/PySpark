@@ -1,3 +1,10 @@
+"""
+@Author: Mohammad Fatha
+@Date: 2021-11-23
+@Last Modified by: Mohammad Fatha
+@Title : Word count program using pyspark library in python
+"""
+
 import sys
  
 from pyspark import SparkContext, SparkConf
